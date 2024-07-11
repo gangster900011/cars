@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-13 00:01+0000\n"
+"Last-Translator: phlostically <phlostically@mailinator.com>\n"
+"Language-Team: Esperanto <https://hosted.weblate.org/projects/bgammon/"
+"boxcars/eo/>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.5.4\n"
+
+msgid "%s - Free Online Backgammon"
+msgstr "%s - Libera Interreta triktrako"
+
+msgid "%s joined the match."
+msgstr "%s aliĝis la partion."
+
+msgid "%s left the match."
+msgstr "%s forlasis la partion."
+
+msgid "%s moved %s"
+msgstr ""
+
+msgid "%s rolled %s"
+msgstr ""
+
+msgid "%s wins!"
+msgstr "%s gajnis la ludon!"
+
+msgid "Accept"
+msgstr "Akcepti"
+
+msgid "Account"
+msgstr "Kvanto"
+
+msgid "Acey-deucey"
+msgstr "Aso-duo"
+
+msgid "Advanced movement"
+msgstr "Malsimpla movo"
+
+msgid "Auto-play forced moves"
+msgstr "Aŭtomate ludi devigajn movojn"
+
+msgid "Available"
+msgstr "Disponebla"
+
+msgid "Backgammon"
+msgstr "Triktrako"
+
+msgid "Bearing Off"
+msgstr ""
+
+msgid "Board"
+msgstr "Tabulo"
+
+msgid ""
+"Boxcars is a client for playing backgammon via bgammon.org, a free and open "
+"source backgammon service."
+msgstr ""
+"Boxcars estas programo por ludi triktrakton ĉe bgammon.org, kiu estas libera "
+"kaj malfermitkoda triktraka servo."
+
+msgid "Cancel"
+msgstr "Nuligi"
+
+msgid "Change password"
+msgstr "Ŝanĝi pasvorton"
+
+msgid ""
+"Check your email for a link to reset your password. Be sure to check your "
+"spam folder."
+msgstr ""
+
+msgid "Connect"
+msgstr "Konekti"
+
+msgid "Connecting..."
+msgstr "Konektante…"
+
+msgid "Create"
+msgstr "Krei"
+
+msgid "Create Match"
+msgstr "Krei partion"
+
+msgid ""
+"Create a match if you would like to play against someone else. Backgammon "
+"and several of its variants are supported."
+msgstr ""
+
+msgid "Create match"
+msgstr "Krei partion"
+
+msgid "Create new match"
+msgstr "Krei novan partion"
+
+msgid "Current"
+msgstr "Aktuala"
+
+msgid "Date"
+msgstr "Dato"
+
+msgid "Double"
+msgstr "Duobla"
+
+msgid "Double click a checker to bear it off. Bear off all 15 checkers to win."
+msgstr ""
+
+msgid "Download replay"
+msgstr ""
+
+msgid "Downloaded replay"
+msgstr ""
+
+msgid "Email"
+msgstr "Retpoŝto"
+
+msgid "Failed to download replay: %s"
+msgstr ""
+
+msgid "Failed to join match: %s"
+msgstr "Malsukcesis aliĝi partion: %s"
+
+msgid "Failed to leave match: %s"
+msgstr "Malsukcesis forlasi partion: %s"
+
+msgid "Failed to move checker%s: %s"
+msgstr "Malsukcesis movi diskon %s: %s"
+
+msgid "Failed to roll"
+msgstr ""
+
+msgid "Failed to submit moves: %s"
+msgstr "Malsukcesis submeti movon: %s"
+
+msgid "Fast"
+msgstr "Rapida"
+
+msgid "Flip board"
+msgstr "Turni tabulon"
+
+msgid "Flip opp. space numbers"
+msgstr ""
+
+msgid "Forced"
+msgstr "Deviga"
+
+msgid "Good Luck, Have Fun"
+msgstr "Bonan ŝancon, ĝuu"
+
+msgid "Highlight legal moves"
+msgstr "Reliefigi eblajn movojn"
+
+msgid "History"
+msgstr "Historio"
+
+msgid "Instant"
+msgstr "Tuja"
+
+msgid "Join"
+msgstr "Aligî"
+
+msgid "Join match"
+msgstr "Aliĝi partion"
+
+msgid "Join match: %s"
+msgstr "Aliĝi partion: %s"
+
+msgid "Leave"
+msgstr "Forlasi"
+
+msgid "Leave match?"
+msgstr "Ĉu forlasi partion?"
+
+msgid "Left match"
+msgstr "Forlasis partion"
+
+msgid "Legal moves: %s"
+msgstr "Eblaj movoj: %s"
+
+msgid "Loading..."
+msgstr "Ŝargante…"
+
+msgid "Logged in as guest"
+msgstr "Salutinta kiel gasto"
+
+msgid "Long press back to exit the application."
+msgstr ""
+
+msgid "Match Name"
+msgstr "Nomo de partio"
+
+msgid "Matches List"
+msgstr "Listo de partioj"
+
+msgid "Medium"
+msgstr "Mezrapida"
+
+msgid "Menu"
+msgstr "Menuo"
+
+msgid "Multi"
+msgstr ""
+
+msgid "Name"
+msgstr "Nomo"
+
+msgid "New"
+msgstr "Nova"
+
+msgid "No"
+msgstr "Ne"
+
+msgid "None"
+msgstr "Nenio"
+
+msgid "OK"
+msgstr "Bone"
+
+msgid "Opponent"
+msgstr "Kontraŭulo"
+
+msgid "Password"
+msgstr "Pasvorto"
+
+msgid "Play Offline"
+msgstr "Ludi senkonekte"
+
+msgid "Play backgammon online via bgammon.org"
+msgstr "Ludi triktrakon Interrete ĉe bgammon.org"
+
+msgid "Playing offline."
+msgstr "Ludante senkonekte."
+
+msgid ""
+"Please enter a valid email address, or it will not be possible to reset your "
+"password."
+msgstr ""
+"Bonvolu tajpi validan retpoŝtan adreson; alie, vi ne eblus ŝanĝi vian "
+"pasvorton."
+
+msgid "Points"
+msgstr "Poentoj"
+
+msgid "Press back to toggle the keyboard."
+msgstr ""
+
+msgid "Private"
+msgstr "Privata"
+
+msgid "Rating"
+msgstr "Takso"
+
+msgid "Read error"
+msgstr "Lega eraro"
+
+msgid "Reconnecting"
+msgstr "Rekonektante"
+
+msgid "Refresh"
+msgstr "Refreŝigi"
+
+msgid "Refresh matches"
+msgstr "Refreŝigi liston de partioj"
+
+msgid "Register"
+msgstr "Registri"
+
+msgid "Rematch"
+msgstr ""
+
+msgid "Replay download already in progress."
+msgstr ""
+
+msgid "Replaying %s vs. %s"
+msgstr ""
+
+msgid "Reset Password"
+msgstr "Restarigi pasvorton"
+
+msgid "Resign"
+msgstr "Rezigni"
+
+msgid "Result"
+msgstr "Rezulto"
+
+msgid "Return"
+msgstr "Reen"
+
+msgid "Roll"
+msgstr "Ĵeti ĵetkubon"
+
+msgid "Search"
+msgstr "Serĉi"
+
+msgid "Sending password reset request"
+msgstr ""
+
+msgid "Server"
+msgstr "Servilo"
+
+msgid "Settings"
+msgstr "Agordoj"
+
+msgid "Show moves"
+msgstr "Montri movojn"
+
+msgid "Show pip count"
+msgstr "Montri nombron de fakoj"
+
+msgid "Single"
+msgstr ""
+
+msgid "Slow"
+msgstr "Malrapida"
+
+msgid "Speed"
+msgstr "Rapido"
+
+msgid "Started"
+msgstr "Komencita"
+
+msgid "Status"
+msgstr "Stato"
+
+msgid "Submit"
+msgstr "Submeti"
+
+msgid "Tabula"
+msgstr ""
+
+msgid "Tap to dismiss this pop-up."
+msgstr ""
+
+msgid ""
+"This concludes the tutorial. To share feedback and chat with other players "
+"visit %s"
+msgstr ""
+
+msgid ""
+"This screen lists the matches that are currently available. A few bots are "
+"always available to play against. You can also spectate ongoing public "
+"matches."
+msgstr ""
+
+msgid "To download this replay visit"
+msgstr ""
+
+msgid ""
+"To log in as a guest, enter a username (if you want) and do not enter a "
+"password."
+msgstr ""
+"Por saluti kiel gasto, tajpu salutnomon (se vi deziras tion) kaj ne tajpu "
+"pasvorton."
+
+msgid "Tutorial"
+msgstr ""
+
+msgid "Undo"
+msgstr "Malfari"
+
+msgid "Username"
+msgstr "Salutnomo"
+
+msgid "Variant"
+msgstr "Varianto"
+
+msgid "View replay"
+msgstr "Spekti reludon"
+
+msgid "Waiting"
+msgstr "Atendante"
+
+msgid "Warning: Received unknown event: %+v"
+msgstr "Averto: ricevis nekonatan eventon: %+v"
+
+msgid "Warning: Received unrecognized event from server."
+msgstr ""
+
+msgid ""
+"Welcome to the guided tutorial. Click anywhere outside of this message box "
+"to close the tutorial. Click anywhere inside of this message box to view the "
+"next page."
+msgstr ""
+
+msgid "Welcome, %s. There are %d clients playing %d matches."
+msgstr "Bonvenon, %s. Jen %d klientoj en %d partioj."
+
+msgid "Welcome, %s. There are %d clients playing 1 match."
+msgstr "Bonvenon, %s. Jen %d klientoj en 1 partio."
+
+msgid "Welcome, %s. There is 1 client playing %d matches."
+msgstr "Bonvenon, %s. Jen 1 kliento en %d partioj."
+
+msgid "Welcome, %s. There is 1 client playing 1 match."
+msgstr "Bonvenon, %s. Jen 1 kliento en 1 partio."
+
+msgid "Write error"
+msgstr "Skriba eraro"
+
+msgid "Yes"
+msgstr "Jes"
+
+msgid ""
+"You have the black checkers. You can move a checker by either clicking it or "
+"dragging it."
+msgstr ""
+
+msgid "You may need to upgrade your client."
+msgstr "Vi eble devas ĝisdatigi vian programon."
+
+msgid "from %s to %s"
+msgstr "de %s al %s"
+
+#~ msgid "Type %s to offer a rematch."
+#~ msgstr "Tajpu %s por proponi repartion."

@@ -1,0 +1,26 @@
+project_name: boxcars
+
+builds:
+  -
+    id: boxcars
+    goos:
+      - js
+      - linux
+      - windows
+    goarch:
+      - amd64
+      - wasm
+archives:
+  -
+    id: boxcars
+    builds:
+      - boxcars
+    wrap_in_directory: boxcars
+    format_overrides:
+      - goos: windows
+        format: zip
+    files:
+      - ./*.md
+      - LICENSE
+checksum:
+  name_template: 'checksums.txt'

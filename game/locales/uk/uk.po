@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-21 11:01+0000\n"
+"Last-Translator: \"Andrew \\\"EGYT\\\"\" <hitechni134@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/bgammon/"
+"boxcars/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.6-dev\n"
+
+msgid "%s - Free Online Backgammon"
+msgstr "%s - Вільні Онлайн Нарди"
+
+msgid "%s joined the match."
+msgstr "%s приєднується."
+
+msgid "%s left the match."
+msgstr "%s від'єднується."
+
+msgid "%s moved %s"
+msgstr "%s робить хід %s"
+
+msgid "%s rolled %s"
+msgstr "%s кидає %s"
+
+msgid "%s wins!"
+msgstr "%s перемагає!"
+
+msgid "Accept"
+msgstr "Прийняти"
+
+msgid "Account"
+msgstr "Акаунт"
+
+msgid "Acey-deucey"
+msgstr "Ейсі-дусі"
+
+msgid "Advanced movement"
+msgstr "Просунуті рухи"
+
+msgid "Auto-play forced moves"
+msgstr "Автоматичні примусові ходи"
+
+msgid "Available"
+msgstr "Не почато"
+
+msgid "Backgammon"
+msgstr "Нарди"
+
+msgid "Bearing Off"
+msgstr "Викидання"
+
+msgid "Board"
+msgstr "Дошка"
+
+msgid ""
+"Boxcars is a client for playing backgammon via bgammon.org, a free and open "
+"source backgammon service."
+msgstr ""
+"Boxcars - клієнт для гри у нарди через сайт bgammon.org, вільний сервіс із "
+"відкритим кодом."
+
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgid "Change password"
+msgstr "Змінити пароль"
+
+msgid ""
+"Check your email for a link to reset your password. Be sure to check your "
+"spam folder."
+msgstr ""
+"Перевірте свою електронну поштову скриньку на наявність посилання для "
+"відновлення паролю. Також перевірте папку \"спам\"."
+
+msgid "Connect"
+msgstr "Приєднатися"
+
+msgid "Connecting..."
+msgstr "Приєднання..."
+
+msgid "Create"
+msgstr "Створити"
+
+msgid "Create Match"
+msgstr "Створення матчу"
+
+msgid ""
+"Create a match if you would like to play against someone else. Backgammon "
+"and several of its variants are supported."
+msgstr ""
+"Створіть матч, якщо хочете зіграти ще з кимось. Підтримуються нарди та "
+"кілька їх варіантів."
+
+msgid "Create match"
+msgstr "Створити матч"
+
+msgid "Create new match"
+msgstr "Новий матч"
+
+msgid "Current"
+msgstr "У процесі"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Double"
+msgstr "Подвоїти"
+
+msgid "Double click a checker to bear it off. Bear off all 15 checkers to win."
+msgstr ""
+"Натисніть по шашці двічі, щоб викинути її з дошки. Викиньте всі 15 шашок, "
+"щоб перемогти."
+
+msgid "Download replay"
+msgstr "Завантажити повтор"
+
+msgid "Downloaded replay"
+msgstr "Завантажений повтор"
+
+msgid "Email"
+msgstr "Пошта"
+
+msgid "Failed to download replay: %s"
+msgstr "Помилка завантаження повтору: %s"
+
+msgid "Failed to join match: %s"
+msgstr "Помилка приєднання: %s"
+
+msgid "Failed to leave match: %s"
+msgstr "Помилка від'єднання: %s"
+
+msgid "Failed to move checker%s: %s"
+msgstr "Помилка пересування шашки%s: %s"
+
+msgid "Failed to roll"
+msgstr "Помилка кидку"
+
+msgid "Failed to submit moves: %s"
+msgstr "Помилка підтвердження ходів: %s"
+
+msgid "Fast"
+msgstr "Швидко"
+
+msgid "Flip board"
+msgstr "Розвернути дошку"
+
+msgid "Flip opp. space numbers"
+msgstr "Перевертати числа противника"
+
+msgid "Forced"
+msgstr "Примусовий"
+
+msgid "Good Luck, Have Fun"
+msgstr "Щасти вам, розважайтеся"
+
+msgid "Highlight legal moves"
+msgstr "Підсвічувати можливі ходи"
+
+msgid "History"
+msgstr "Історія"
+
+msgid "Instant"
+msgstr "Моментально"
+
+msgid "Join"
+msgstr "Увійти"
+
+msgid "Join match"
+msgstr "Приєднатися до матчу"
+
+msgid "Join match: %s"
+msgstr "Приєднано до матчу: %s"
+
+msgid "Leave"
+msgstr "Покинути"
+
+msgid "Leave match?"
+msgstr "Дійсно покинути?"
+
+msgid "Left match"
+msgstr "Покинуто"
+
+msgid "Legal moves: %s"
+msgstr "Доступні ходи: %s"
+
+msgid "Loading..."
+msgstr "Завантаження..."
+
+msgid "Logged in as guest"
+msgstr "Ви увійшли як гість"
+
+msgid "Long press back to exit the application."
+msgstr "Затисніть \"Назад\", щоб вийти із застосунку."
+
+msgid "Match Name"
+msgstr "Назва матчу"
+
+msgid "Matches List"
+msgstr "Список матчів"
+
+msgid "Medium"
+msgstr "Звичайно"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Multi"
+msgstr "Багатоочковий"
+
+msgid "Name"
+msgstr "Назва"
+
+msgid "New"
+msgstr "Новий"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "None"
+msgstr "-"
+
+msgid "OK"
+msgstr "Готово"
+
+msgid "Opponent"
+msgstr "Опонент"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Play Offline"
+msgstr "Грати офлайн"
+
+msgid "Play backgammon online via bgammon.org"
+msgstr "Грайте у нарди онлайн через bgammon.org"
+
+msgid "Playing offline."
+msgstr "Гра офлайн."
+
+msgid ""
+"Please enter a valid email address, or it will not be possible to reset your "
+"password."
+msgstr ""
+"Будь ласка, введіть дійсну електронну поштову скриньку, інакше відновлення "
+"паролю буде неможливе."
+
+msgid "Points"
+msgstr "Бали"
+
+msgid "Press back to toggle the keyboard."
+msgstr "Натисніть \"Назад\", щоб перемкнути клавіатуру."
+
+msgid "Private"
+msgstr "Приватна"
+
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgid "Read error"
+msgstr "Помилка читання"
+
+msgid "Reconnecting"
+msgstr "Переприєднання"
+
+msgid "Refresh"
+msgstr "Оновити"
+
+msgid "Refresh matches"
+msgstr "Оновити список"
+
+msgid "Register"
+msgstr "Зареєструватися"
+
+msgid "Rematch"
+msgstr "Рематч"
+
+msgid "Replay download already in progress."
+msgstr "Завантаження повтору в процесі."
+
+msgid "Replaying %s vs. %s"
+msgstr "Повтор гри %s проти %s"
+
+msgid "Reset Password"
+msgstr "Відновити пароль"
+
+msgid "Resign"
+msgstr "Здатися"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Return"
+msgstr "Назад"
+
+msgid "Roll"
+msgstr "Кинути"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Sending password reset request"
+msgstr "Відправлення запиту на відновлення паролю"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Settings"
+msgstr "Параметри"
+
+msgid "Show moves"
+msgstr "Показувати ходи"
+
+msgid "Show pip count"
+msgstr "Показувати к-сть пунктів"
+
+msgid "Single"
+msgstr "Одноочковий"
+
+msgid "Slow"
+msgstr "Повільно"
+
+msgid "Speed"
+msgstr "Швидкість"
+
+msgid "Started"
+msgstr "Почато"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Submit"
+msgstr "Підтвердити"
+
+msgid "Tabula"
+msgstr "Табула"
+
+msgid "Tap to dismiss this pop-up."
+msgstr "Натисніть, щоб закрити це вікно."
+
+msgid ""
+"This concludes the tutorial. To share feedback and chat with other players "
+"visit %s"
+msgstr ""
+"На цьому посібник завершено. Для зворотнього зв'язку та спілкування з іншими "
+"гравцями, відвідайте %s"
+
+msgid ""
+"This screen lists the matches that are currently available. A few bots are "
+"always available to play against. You can also spectate ongoing public "
+"matches."
+msgstr ""
+"На цьому екрані відображено список доступних матчів. Декілька ботів завжди "
+"доступні для гри. Ви також можете спостерігати публічні ігри."
+
+msgid "To download this replay visit"
+msgstr "Щоб завантажити цей повтор, відвідайте"
+
+msgid ""
+"To log in as a guest, enter a username (if you want) and do not enter a "
+"password."
+msgstr ""
+"Щоб увійти як гість, введіть логін (за бажанням), та не вводьте пароль."
+
+msgid "Tutorial"
+msgstr "Посібник"
+
+msgid "Undo"
+msgstr "Скасув. хід"
+
+msgid "Username"
+msgstr "Логін"
+
+msgid "Variant"
+msgstr "Варіант"
+
+msgid "View replay"
+msgstr "Переглянути повтор"
+
+msgid "Waiting"
+msgstr "Очікування"
+
+msgid "Warning: Received unknown event: %+v"
+msgstr "Попередження: отримано невідому подію: %+v"
+
+msgid "Warning: Received unrecognized event from server."
+msgstr "Попередження: отримано нерозпізнану подію від сервера."
+
+msgid ""
+"Welcome to the guided tutorial. Click anywhere outside of this message box "
+"to close the tutorial. Click anywhere inside of this message box to view the "
+"next page."
+msgstr ""
+"Ласкаво просимо до навчального посібника. Натисніть будь-де за межами цього "
+"вікна, щоб завершити посібник. Натисніть будь-де всередині цього вікна, щоб "
+"перейти на наступну сторінку."
+
+msgid "Welcome, %s. There are %d clients playing %d matches."
+msgstr ""
+
+msgid "Welcome, %s. There are %d clients playing 1 match."
+msgstr ""
+
+msgid "Welcome, %s. There is 1 client playing %d matches."
+msgstr ""
+
+msgid "Welcome, %s. There is 1 client playing 1 match."
+msgstr ""
+
+msgid "Write error"
+msgstr "Помилка запису"
+
+msgid "Yes"
+msgstr "Так"
+
+msgid ""
+"You have the black checkers. You can move a checker by either clicking it or "
+"dragging it."
+msgstr ""
+"Ваші шашки - чорні. Ви можете пересунути шашку натисканням на неї або "
+"пересуванням її."
+
+msgid "You may need to upgrade your client."
+msgstr "Можливо, потрібно оновити клієнт."
+
+msgid "from %s to %s"
+msgstr "з %s до %s"
+
+#~ msgid "Type %s to offer a rematch."
+#~ msgstr "Введіть %s, щоб запропонувати реванш."

@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-03-18 10:22+0000\n"
+"Last-Translator: Iago Emanuel <iagoemanuel@live.com>\n"
+"Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
+"bgammon/boxcars/pt_BR/>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
+
+msgid "%s - Free Online Backgammon"
+msgstr ""
+
+msgid "%s joined the match."
+msgstr "%s entrou na partida."
+
+msgid "%s left the match."
+msgstr "%s saiu da partida."
+
+msgid "%s moved %s"
+msgstr "%s moveu %s"
+
+msgid "%s rolled %s"
+msgstr "% rolou %"
+
+msgid "%s wins!"
+msgstr "%s venceu!"
+
+msgid "Accept"
+msgstr "Aceitar"
+
+msgid "Account"
+msgstr "Conta"
+
+msgid "Acey-deucey"
+msgstr ""
+
+msgid "Advanced movement"
+msgstr ""
+
+msgid "Auto-play forced moves"
+msgstr ""
+
+msgid "Available"
+msgstr "Disponível"
+
+msgid "Backgammon"
+msgstr ""
+
+msgid "Bearing Off"
+msgstr ""
+
+msgid "Board"
+msgstr "Quadro"
+
+msgid ""
+"Boxcars is a client for playing backgammon via bgammon.org, a free and open "
+"source backgammon service."
+msgstr ""
+"Boxcars é um cliente para jogar backgammon em bgammon.org. Um serviço "
+"backgammon de código-fonte aberto e livre."
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Change password"
+msgstr "Alterar senha"
+
+msgid ""
+"Check your email for a link to reset your password. Be sure to check your "
+"spam folder."
+msgstr ""
+"Verifique seu e-mail para acessar o link de restauração de senha. Certifique-"
+"se de olhar à sua pasta de spam."
+
+msgid "Connect"
+msgstr "Conectar"
+
+msgid "Connecting..."
+msgstr "Conectando..."
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Match"
+msgstr "Criar Partida"
+
+msgid ""
+"Create a match if you would like to play against someone else. Backgammon "
+"and several of its variants are supported."
+msgstr ""
+
+msgid "Create match"
+msgstr "Criar partida"
+
+msgid "Create new match"
+msgstr "Criar nova partida"
+
+msgid "Current"
+msgstr "Recente"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Double"
+msgstr "Duplo"
+
+msgid "Double click a checker to bear it off. Bear off all 15 checkers to win."
+msgstr ""
+
+msgid "Download replay"
+msgstr "Baixar replay"
+
+msgid "Downloaded replay"
+msgstr "Replay baixado"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Failed to download replay: %s"
+msgstr "Falha ao baixar o replay: %s"
+
+msgid "Failed to join match: %s"
+msgstr "Falha ao entrar na partida: %s"
+
+msgid "Failed to leave match: %s"
+msgstr "Falha ao sair da partida: %s"
+
+msgid "Failed to move checker%s: %s"
+msgstr ""
+
+msgid "Failed to roll"
+msgstr "Falha ao rolar"
+
+msgid "Failed to submit moves: %s"
+msgstr "Falha ao enviar movimentos: %s"
+
+msgid "Fast"
+msgstr ""
+
+msgid "Flip board"
+msgstr "Inverter placar"
+
+msgid "Flip opp. space numbers"
+msgstr ""
+
+msgid "Forced"
+msgstr ""
+
+msgid "Good Luck, Have Fun"
+msgstr "Boa Sorte, Divirta-se"
+
+msgid "Highlight legal moves"
+msgstr ""
+
+msgid "History"
+msgstr "Histórico"
+
+msgid "Instant"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Join match"
+msgstr "Entrar na partida"
+
+msgid "Join match: %s"
+msgstr "Entrar na partida: %s"
+
+msgid "Leave"
+msgstr "Sair"
+
+msgid "Leave match?"
+msgstr "Sair da partida?"
+
+msgid "Left match"
+msgstr "Sair da partida"
+
+msgid "Legal moves: %s"
+msgstr "Movimentos legais: %s"
+
+msgid "Loading..."
+msgstr "Carregando..."
+
+msgid "Logged in as guest"
+msgstr "Conectado(a) como convidado(a)"
+
+msgid "Long press back to exit the application."
+msgstr ""
+
+msgid "Match Name"
+msgstr "Nome da Partida"
+
+msgid "Matches List"
+msgstr "Lista de Partidas"
+
+msgid "Medium"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Multi"
+msgstr ""
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "New"
+msgstr "Novo"
+
+msgid "No"
+msgstr "Não"
+
+msgid "None"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Opponent"
+msgstr "Oponente"
+
+msgid "Password"
+msgstr "Senha"
+
+msgid "Play Offline"
+msgstr "Jogar Offline"
+
+msgid "Play backgammon online via bgammon.org"
+msgstr "Jogar backgammon online em bgammon.org"
+
+msgid "Playing offline."
+msgstr "Jogando offline."
+
+msgid ""
+"Please enter a valid email address, or it will not be possible to reset your "
+"password."
+msgstr ""
+"Insira um endereço de e-mail válido ou não será possível redefinir à sua "
+"senha."
+
+msgid "Points"
+msgstr "Pontos"
+
+msgid "Press back to toggle the keyboard."
+msgstr ""
+
+msgid "Private"
+msgstr "Privado"
+
+msgid "Rating"
+msgstr ""
+
+msgid "Read error"
+msgstr "Ler erro"
+
+msgid "Reconnecting"
+msgstr "Reconectando"
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Refresh matches"
+msgstr "Atualizar partidas"
+
+msgid "Register"
+msgstr "Registro"
+
+msgid "Rematch"
+msgstr ""
+
+msgid "Replay download already in progress."
+msgstr "Download do replay em andamento."
+
+msgid "Replaying %s vs. %s"
+msgstr "Repetindo %s vs. %s"
+
+msgid "Reset Password"
+msgstr "Redefinir Senha"
+
+msgid "Resign"
+msgstr "Desistir"
+
+msgid "Result"
+msgstr "Resultado"
+
+msgid "Return"
+msgstr "Retornar"
+
+msgid "Roll"
+msgstr "Rolar"
+
+msgid "Search"
+msgstr "Buscar"
+
+msgid "Sending password reset request"
+msgstr "Enviando pedido de redefinição de senha"
+
+msgid "Server"
+msgstr "Servidor"
+
+msgid "Settings"
+msgstr "Configurações"
+
+msgid "Show moves"
+msgstr "Exibir movimentos"
+
+msgid "Show pip count"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Started"
+msgstr "Iniciado"
+
+msgid "Status"
+msgstr "Estado"
+
+msgid "Submit"
+msgstr "Enviar"
+
+msgid "Tabula"
+msgstr "Tabula"
+
+msgid "Tap to dismiss this pop-up."
+msgstr ""
+
+msgid ""
+"This concludes the tutorial. To share feedback and chat with other players "
+"visit %s"
+msgstr ""
+"Tutorial concluído. Para compartilhar um comentário e conversar com outros "
+"jogadores, visite %s"
+
+msgid ""
+"This screen lists the matches that are currently available. A few bots are "
+"always available to play against. You can also spectate ongoing public "
+"matches."
+msgstr ""
+"Estas são as listas de partidas disponíveis atualmente. Há alguns bots "
+"sempre prontos para jogar contra. Você também pode assistir à partidas "
+"públicas em andamento."
+
+msgid "To download this replay visit"
+msgstr "Para baixar este replay visite"
+
+msgid ""
+"To log in as a guest, enter a username (if you want) and do not enter a "
+"password."
+msgstr ""
+"Para iniciar sessão como convidado, insira seu nome de usuário (opcional) e "
+"não coloque uma senha."
+
+msgid "Tutorial"
+msgstr "Tutorial"
+
+msgid "Undo"
+msgstr "Desfazer"
+
+msgid "Username"
+msgstr "Nome de usuário"
+
+msgid "Variant"
+msgstr "Variante"
+
+msgid "View replay"
+msgstr "Ver replay"
+
+msgid "Waiting"
+msgstr "Aguardando"
+
+msgid "Warning: Received unknown event: %+v"
+msgstr "Aviso: Evento desconhecido recebido: %+v"
+
+msgid "Warning: Received unrecognized event from server."
+msgstr ""
+
+msgid ""
+"Welcome to the guided tutorial. Click anywhere outside of this message box "
+"to close the tutorial. Click anywhere inside of this message box to view the "
+"next page."
+msgstr ""
+
+msgid "Welcome, %s. There are %d clients playing %d matches."
+msgstr ""
+
+msgid "Welcome, %s. There are %d clients playing 1 match."
+msgstr ""
+
+msgid "Welcome, %s. There is 1 client playing %d matches."
+msgstr ""
+
+msgid "Welcome, %s. There is 1 client playing 1 match."
+msgstr ""
+
+msgid "Write error"
+msgstr "Escrever erro"
+
+msgid "Yes"
+msgstr "Sim"
+
+msgid ""
+"You have the black checkers. You can move a checker by either clicking it or "
+"dragging it."
+msgstr ""
+
+msgid "You may need to upgrade your client."
+msgstr "Talvez precise atualizar seu cliente."
+
+msgid "from %s to %s"
+msgstr "De %s para %s"
+
+#~ msgid "Type %s to offer a rematch."
+#~ msgstr "Tipo %s para oferecer uma revanche."
